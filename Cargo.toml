@@ -1,0 +1,9 @@
+[package]
+name = "imap-search-test"
+version = "0.1.0"
+
+[dependencies]
+imap = "0.10.0"
+native-tls = "0.2.2"
+clap = "2.31"
+rpassword = "2.0"
